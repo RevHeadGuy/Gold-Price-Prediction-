@@ -1,3 +1,3 @@
 # Gold-Price-Prediction-
 
-Created a Gold Price Prediction project using Machine Leaarning on Google Colab
+Created a Gold Price Prediction project using Machine Leaarning on Google Colab.
