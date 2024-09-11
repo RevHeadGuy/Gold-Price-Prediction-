@@ -12,7 +12,7 @@ Random Forest: An ensemble learning method that combines multiple decision trees
 Support Vector Machines: A supervised learning algorithm that can be used for both classification and regression tasks. It performs well with high-dimensional data.
 Linear Regression: A simple yet effective technique that models the relationship between the target variable (gold price) and one or more predictor variables.
 
-Benefits of ML for Gold Price Prediction
+Benefits of ML for Gold Price Prediction:
 Improved Accuracy: ML algorithms can analyze vast amounts of data and identify patterns that may not be apparent to human analysts.
 Adaptability: ML models can adapt to changing market conditions and adjust their predictions accordingly.
 Consistency: ML-based predictions are consistent over time, reducing errors and improving overall accuracy.
