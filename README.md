@@ -1,6 +1,7 @@
 # Gold-Price-Prediction-
 
 Created a Gold Price Prediction project using Machine Leaarning on Google Colab.
+
 Introduction:
 Gold is a popular investment asset that is affected by various factors such as global economic conditions, interest rates, currency fluctuations, geopolitical events, and supply-demand dynamics. Traditional statistical models have limitations in capturing the complexity of gold price movements. Machine learning (ML) techniques have emerged as powerful tools for gold price prediction by analyzing large and complex datasets to identify patterns and make accurate forecasts.
 Key Machine Learning Techniques
