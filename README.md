@@ -20,6 +20,7 @@ Linear Regression: A simple yet effective technique that models the relationship
 Benefits of ML for Gold Price Prediction:
 
 Improved Accuracy: ML algorithms can analyze vast amounts of data and identify patterns that may not be apparent to human analysts.
+
 Adaptability: ML models can adapt to changing market conditions and adjust their predictions accordingly.
 Consistency: ML-based predictions are consistent over time, reducing errors and improving overall accuracy.
 Cost-effectiveness: Compared to human analysts, ML-based forecasting can be more cost-effective in the long run.
