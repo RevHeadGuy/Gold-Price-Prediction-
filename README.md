@@ -8,8 +8,11 @@ Gold is a popular investment asset that is affected by various factors such as g
 Key Machine Learning Techniques:
 Some of the popular ML algorithms used for gold price prediction include -
 Neural Networks: Inspired by the human brain, neural networks can learn from historical data to make predictions. They are one of the most widely used techniques for gold price forecasting.
+
 Random Forest: An ensemble learning method that combines multiple decision trees. It is well-suited for capturing complex relationships and handling high-dimensional data.
+
 Support Vector Machines: A supervised learning algorithm that can be used for both classification and regression tasks. It performs well with high-dimensional data.
+
 Linear Regression: A simple yet effective technique that models the relationship between the target variable (gold price) and one or more predictor variables.
 
 Benefits of ML for Gold Price Prediction:
