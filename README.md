@@ -24,6 +24,7 @@ Improved Accuracy: ML algorithms can analyze vast amounts of data and identify p
 Adaptability: ML models can adapt to changing market conditions and adjust their predictions accordingly.
 
 Consistency: ML-based predictions are consistent over time, reducing errors and improving overall accuracy.
+
 Cost-effectiveness: Compared to human analysts, ML-based forecasting can be more cost-effective in the long run.
 
 Applications and Challenges:
