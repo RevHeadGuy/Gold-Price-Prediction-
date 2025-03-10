@@ -74,11 +74,14 @@ The models are evaluated using standard regression metrics:
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 R-squared (R²) Score
+
 📈 Results
 The best-performing model is identified based on its predictive accuracy and generalization ability. Visualizations such as predicted vs. actual price trends are included in the notebook.
 
-🤝 Contributing
+🤝 Contributing :
+
 Contributions are welcome! If you'd like to improve the model or add new features, feel free to fork the repository and submit a pull request.
 
-📜 License
+📜 License : 
+
 This project is licensed under the MIT License.
