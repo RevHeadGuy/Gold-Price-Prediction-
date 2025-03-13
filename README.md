@@ -48,7 +48,7 @@ Other Commodities (e.g., Crude Oil)
 ⚙️ Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/Gold-Price-Prediction.git
+git clone https://github.com/RevHeadGuy/Gold-Price-Prediction.git
 cd Gold-Price-Prediction
 
 Install the required dependencies:
